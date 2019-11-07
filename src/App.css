@@ -20,3 +20,11 @@
     padding-right: 8%;
     font-size: 5.0rem;
   }
+
+  .button {
+      border-radius: 50px;
+      background-color: lightblue;
+      font-size: 30px;
+      padding: 15px 25px;
+      margin: 15px;
+  }
